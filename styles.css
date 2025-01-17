@@ -1,0 +1,45 @@
+.form-control{
+
+}
+
+.overview {
+    height: 100px;
+    background-color: azure;
+}
+
+.c-item{
+    height: 600px;
+}
+
+{
+    background-color: rgb(77, 77, 60);
+}
+
+5{
+    background-color: rgb(77, 77, 60);
+}
+.dropdrown  a{
+    float: right;
+}
+nav {
+    position:fixed;
+    top:0px;
+}
+.Client-Name {
+    color: aquamarine;
+}
+
+.mb-3 { 
+    max-width: 300px;  /* Adjust this value as needed */
+    margin: 0 auto; 
+    }
+
+.Inquriy-form {
+
+}
+.navbar-container {
+    float: right;
+    position: fixed;
+    top: 20;
+    left: 0;
+}
