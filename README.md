@@ -1,0 +1,2 @@
+Investment-Hub is a website that is in the process of development which addresses the basic needs of an Agency organisation that is able to connect and network potential funders, banks, individuals who have the avaliable  resources to parnter and invest in these sectors.
+This is to provide potential clients with the virtual information needed to make these key dicussions when investing and also pool resources together.
