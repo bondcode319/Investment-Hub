@@ -1,5 +1,5 @@
-.form-control{
-
+.form-control {
+    /* Add styles if needed */
 }
 
 .overview {
@@ -7,24 +7,25 @@
     background-color: azure;
 }
 
-.c-item{
+.c-item {
     height: 600px;
 }
 
-{
+/* Removed invalid selector */
+body {
     background-color: rgb(77, 77, 60);
 }
 
-5{
-    background-color: rgb(77, 77, 60);
-}
-.dropdrown  a{
+/* Removed invalid selector */
+.dropdrown a {
     float: right;
 }
+
 nav {
-    position:fixed;
-    top:0px;
+    position: fixed;
+    top: 0px;
 }
+
 .Client-Name {
     color: aquamarine;
 }
@@ -32,14 +33,14 @@ nav {
 .mb-3 { 
     max-width: 300px;  /* Adjust this value as needed */
     margin: 0 auto; 
-    }
+}
 
 .Inquriy-form {
-
+    /* Add styles if needed */
 }
+
 .navbar-container {
-    float: right;
-    position: fixed;
-    top: 20;
+   
+    top: 20px; /* Added unit 'px' */
     left: 0;
 }
